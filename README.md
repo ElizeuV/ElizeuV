@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Elizeu Santos, entusiasta por tecnologia!
 
 ##
-➖ Cursando Superior em Análise e Desenvolvimento de Sistemas | Anhanguera Guarulhos - Conclusão em 2024
-Cruzando Desenvolvimento Front End | Alura 
-➖ Curso Técnico em Desenvolvimento de Sistemas | Etec Itaquera - Trancado
+➖ Cursando Superior em Análise e Desenvolvimento de Sistemas  
+➖ Cursando Desenvolvimento Front End 
 Contato: elizeu.vitor.montwiro@gmail.com | Cel. Wpp. 11 970809642
 ##
 

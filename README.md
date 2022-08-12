@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Elizeu Santos, entusiasta por tecnologia!
 
-##
-
 #### ➖ Cursando Superior em Análise e Desenvolvimento de Sistemas | Anhanguera  
 #### ➖ Cursando Desenvolvimento Front End | Alura
 #### ➖ Contatos: elizeu.vitor.monteiro@gmail.com | Cel. Wpp. 11 970809642

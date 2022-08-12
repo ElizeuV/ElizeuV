@@ -1,4 +1,4 @@
-## Olá! Eu sou o Elizeu Santos, entusiasta por tecnologia!
+## Olá! Eu sou o Elizeu Santos, entusiasta por tecnologia 👨‍💻
 
 #### ➖ Cursando Superior em Análise e Desenvolvimento de Sistemas | Anhanguera  
 #### ➖ Cursando Desenvolvimento Front End | Alura

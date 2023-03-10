@@ -20,7 +20,7 @@
   <img align="center" alt="ElizeuV-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ElizeuV-MySql" height="30" width="40" src="https://github.com/ElizeuV/skill-icons/blob/main/icons/MySQL-Dark.svg">
   <img align="center" alt="ElizeuV-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="ElizeuV-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="ElizeuV-GitHub" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg](https://github.com/ElizeuV/skill-icons/blob/main/icons/Github-Light.svg)">
   <img align="center" alt="ElizeuV-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="ElizeuV-VSCode" height="30" width="40" src="https://github.com/ElizeuV/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="ElizeuV-Vercel" height="30" width="40" src="https://github.com/ElizeuV/skill-icons/blob/main/icons/Vercel-Dark.svg">

@@ -1,8 +1,8 @@
-## Olá! Eu sou o Elizeu Santos, entusiasta por tecnologia 👨‍💻
+## Olá! Me chamo Elizeu, sou estudante, profissional e entusiasta de tecnologia 👨‍💻
 
 
 #### ➖ Cursando Superior em Análise e Desenvolvimento de Sistemas | Anhanguera 
-#### ➖ Contatos: elizeu.vitor.monteiro@gmail.com | Cel. Wpp. 11 970809642
+#### ➖ Contato: elizeusantos@gmail.com 
 
  ##
 

@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Elizeu Santos, entusiasta por tecnologia 👨‍💻
 
-#### ➖ Cursando Superior em Análise e Desenvolvimento de Sistemas | Anhanguera  
-#### ➖ Cursando Desenvolvimento Front End | Alura
+
+#### ➖ Cursando Superior em Análise e Desenvolvimento de Sistemas | Anhanguera 
 #### ➖ Contatos: elizeu.vitor.monteiro@gmail.com | Cel. Wpp. 11 970809642
 
-##
+ ##
 
 <div align="center">
   <a href="https://github.com/ElizeuV">
@@ -14,7 +14,7 @@
   
   ##
   
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="ElizeuV-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ElizeuV-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ElizeuV-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

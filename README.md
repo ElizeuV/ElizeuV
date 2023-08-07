@@ -4,13 +4,13 @@
 #### ➖ Cursando Superior em Análise e Desenvolvimento de Sistemas | Anhanguera 
 #### ➖ Contato: elizeusantos@gmail.com 
 
-<div align="center" >
+<!--<div align="center" >
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Front-End;Back-End;Softaware;Developer;Banco;de;Dados)](https://git.io/typing-svg)
  
- </div>
+ </div>-->
 
  ##
 

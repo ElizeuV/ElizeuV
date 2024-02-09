@@ -1,4 +1,4 @@
-## Olá! Me chamo Elizeu, sou estudante, profissional e entusiasta de tecnologia 👨‍💻
+## Hello, I'm a systems analysis and development student 👨‍💻
 
 
 #### ➖ Cursando Superior em Análise e Desenvolvimento de Sistemas | Anhanguera 

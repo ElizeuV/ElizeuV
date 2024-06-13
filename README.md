@@ -1,7 +1,7 @@
 ## Hello, I am a systems development analyst 👨‍💻
 
 
-#### ➖ Cursando Superior em Análise e Desenvolvimento de Sistemas | Anhanguera 
+#### ➖ Formado em Análise e Desenvolvimento de Sistemas | Anhanguera 
 #### ➖ Contato: elizeusantos@gmail.com 
 
 <!--<div align="center" >

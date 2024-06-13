@@ -1,4 +1,4 @@
-## Hello, I'm a systems analysis and development student 👨‍💻
+## Hello, I am a systems development analyst 👨‍💻
 
 
 #### ➖ Cursando Superior em Análise e Desenvolvimento de Sistemas | Anhanguera 

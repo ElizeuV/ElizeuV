@@ -1,4 +1,4 @@
-## Hello, I am a systems development analyst 👨‍💻
+## Hello, I am a systems development analyst 
 
 
 #### ➖ Formado em Análise e Desenvolvimento de Sistemas | Anhanguera 

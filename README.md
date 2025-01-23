@@ -1,8 +1,10 @@
-## Hello, I am a systems development analyst 
+Desenvolvedor | Analista de Sistemas | AdvPL | JavaScript | SQL | Git | ERP | Protheus
 
 
-#### ➖ Formado em Análise e Desenvolvimento de Sistemas | Anhanguera 
-#### ➖ Contato: elizeusantos@gmail.com 
+#### ➖ Formado em Análise e Desenvolvimento de Sistemas - Anhanguera - Formado
+#### ➖ Bacharelado em Ciência de Dados | TI | Engenharia de Computação - UNIVESP - Cursando
+#### ➖ Pós-graduação Lato Sensu - Especialização, Gestão de Projetos - ETEC - Formado
+## ➖ Contato: elizeusantos@gmail.com 
 
 <!--<div align="center" >
  

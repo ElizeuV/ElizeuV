@@ -1,4 +1,4 @@
-### Desenvolvedor | Analista de Sistemas | AdvPL | JavaScript | SQL | Git | ERP | Protheus
+### Desenvolvedor | Analista de Dados| Python | IA | SQL | Git | AWS 
 
 
 > Formado em Análise e Desenvolvimento de Sistemas - Anhanguera - Formado

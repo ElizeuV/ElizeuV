@@ -1,4 +1,4 @@
-### Desenvolvedor | Analista de Dados| Python | IA | SQL | Git | AWS 
+### Analista de Dados | Dev | Python | IA | SQL | Git | AWS 
 
 
 > Formado em Análise e Desenvolvimento de Sistemas - Anhanguera - Formado
